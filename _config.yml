@@ -1,0 +1,21 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            matthew pennell
+tagline:          'evolutionary biologist'
+description:      '<a href="https://twitter.com/mwpennell" target="_blank">@mwpennell</a>' 
+url:              http://mwpennell.github.io
+
+author:
+  name:           'Matthew Pennell'
+  url:            https://mwpennell.github.io
+
+paginate:         5
+
+github:
+  repo:           https://github.com/mwpennell/mwpennell.github.io
