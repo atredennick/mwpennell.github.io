@@ -7,4 +7,4 @@ I am a PhD candidate in Bioinformatics and Computational Biology, working in the
 
 Contact me at mwpennell@gmail.com
 
-Follow me on [twitter](https://twitter.com/mwpennell) and fork me on [Github](https://github.com/mwpennell).
+Follow me on [twitter](https://twitter.com/mwpennell) and fork me on [GitHub](https://github.com/mwpennell).
