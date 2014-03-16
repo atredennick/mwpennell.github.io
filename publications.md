@@ -3,6 +3,9 @@ layout: page
 title: Publications
 ---
 
+### [On Google scholar](http://scholar.google.com/citations?user=mxS1rJoAAAAJ&hl=en)
+
+
 Eastman, J.M, M.W. Pennell, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (in press) geiger v2.0: an expanded suite of methods for studying evolutionary radiations. Bioinformatics.
 
 FitzJohn, R.G., M.W. Pennell, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (in press) How much of the world is woody? Journal of Ecology. [github](https://github.com/richfitz/wood)
