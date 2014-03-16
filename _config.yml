@@ -13,9 +13,9 @@ url:              http://mwpennell.github.io
 
 author:
   name:           'Matthew Pennell'
-  url:            https://mwpennell.github.io
+  url:            https://twitter.com/mwpennell
 
-paginate:         5
+# paginate:         5
 
 github:
   repo:           https://github.com/mwpennell/mwpennell.github.io
