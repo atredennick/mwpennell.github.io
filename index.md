@@ -7,4 +7,4 @@ I am a PhD student in the [Harmon lab](http://www.webpages.uidaho.edu/~lukeh/) a
 
 Contact me at mwpennell@gmail.com
 
-Follow me on [twitter](https://twitter.com/mwpennell) or fork me on [Github](https://github.com/mwpennell).
+Follow me on [twitter](https://twitter.com/mwpennell) and fork me on [Github](https://github.com/mwpennell).
