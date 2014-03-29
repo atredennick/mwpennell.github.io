@@ -6,7 +6,13 @@ title: Publications
 ### [On Google scholar](http://scholar.google.com/citations?user=mxS1rJoAAAAJ&hl=en)
 
 
-Eastman, J.M\*, **M.W. Pennell**\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (in press) geiger v2.0: an expanded suite of methods for studying evolutionary radiations. Bioinformatics.
+**Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in review) Model adequacy and the macroevolution of angiosperm functional traits.
+
+Lanfear, R. and **M.W. Pennell**. (in review) Open access is worth considering.
+
+Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, **M.W. Pennell**, and L.P. Waits. (in review) A long term population monitoring approach to a wide-ranging carnivore: noninvasive genetic sampling of gray wolf rendezvous sites in Idaho, U.S.A.
+
+**Pennell, M.W.**\*, J.M. Eastman\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (in review) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees.
 
 FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (in press) How much of the world is woody? Journal of Ecology. [github](https://github.com/richfitz/wood)
 
