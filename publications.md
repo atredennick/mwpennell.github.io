@@ -8,11 +8,11 @@ title: Publications
 
 **Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in review) Model adequacy and the macroevolution of angiosperm functional traits. [bioRxiv](http://biorxiv.org/content/early/2014/04/07/004002) [github](https://github.com/richfitz/modeladequacy)
 
-Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, **M.W. Pennell**, and L.P. Waits. (in review) A long term population monitoring approach to a wide-ranging carnivore: noninvasive genetic sampling of gray wolf rendezvous sites in Idaho, U.S.A.
+Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, **M.W. Pennell**, and L.P. Waits. (in press) A long term population monitoring approach to a wide-ranging carnivore: noninvasive genetic sampling of gray wolf rendezvous sites in Idaho, U.S.A. Journal of Wildlife Management.
 
-Lanfear, R. and **M.W. Pennell**. (in press) Open access is worth considering. [data on figshare](http://dx.doi.org/10.6084/m9.figshare.956240)
+Lanfear, R. and **M.W. Pennell**. (in press) Open access is worth considering. Trends in Plant Sciences. [data](http://dx.doi.org/10.6084/m9.figshare.956240)
 
-**Pennell, M.W.**\*, J.M. Eastman\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (in press) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees.
+**Pennell, M.W.**\*, J.M. Eastman\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (in press) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics.
 
 FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (in press) How much of the world is woody? Journal of Ecology. [github](https://github.com/richfitz/wood)
 
