@@ -8,6 +8,8 @@ title: Publications
 
 **Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in review) Model adequacy and the macroevolution of angiosperm functional traits. [bioRxiv](http://biorxiv.org/content/early/2014/04/07/004002) [github](https://github.com/richfitz/modeladequacy)
 
+The Tree of Sex Consortium; T. Ashman, D. Bachtrog, H. Blackmon, E.E. Goldberg, M.W. Hahn, M. Kirkpatrick, J. Kitano, J.E. Mank, I. Mayrose, R. Ming, S.P. Otto, C.L. Peichel, **M.W. Pennell**, N. Perrin, L. Ross, N. Valenzuela, and J.C. Vamosi. (in review) Tree of Sex: a database of sexual systems.
+
 Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, **M.W. Pennell**, and L.P. Waits. (in press) A long term population monitoring approach to a wide-ranging carnivore: noninvasive genetic sampling of gray wolf rendezvous sites in Idaho, U.S.A. Journal of Wildlife Management.
 
 Lanfear, R. and **M.W. Pennell**. (in press) Open access is worth considering. Trends in Plant Sciences. [data](http://dx.doi.org/10.6084/m9.figshare.956240)
