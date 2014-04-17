@@ -6,9 +6,11 @@ title: Publications
 ### [On Google scholar](http://scholar.google.com/citations?user=mxS1rJoAAAAJ&hl=en)
 
 
-**Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in review) Model adequacy and the macroevolution of angiosperm functional traits. [bioRxiv](http://biorxiv.org/content/early/2014/04/07/004002) [github](https://github.com/richfitz/modeladequacy)
+**Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in review) Model adequacy and the macroevolution of angiosperm functional traits. [preprint](http://biorxiv.org/content/early/2014/04/07/004002) [repo](https://github.com/richfitz/modeladequacy)
 
 The Tree of Sex Consortium; T. Ashman, D. Bachtrog, H. Blackmon, E.E. Goldberg, M.W. Hahn, M. Kirkpatrick, J. Kitano, J.E. Mank, I. Mayrose, R. Ming, S.P. Otto, C.L. Peichel, **M.W. Pennell**, N. Perrin, L. Ross, N. Valenzuela, and J.C. Vamosi. (in review) Tree of Sex: a database of sexual systems.
+
+* [Tree of Sex Database](http://traitdb-dev.nescent.org/)
 
 Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, **M.W. Pennell**, and L.P. Waits. (in press) A long term population monitoring approach to a wide-ranging carnivore: noninvasive genetic sampling of gray wolf rendezvous sites in Idaho, U.S.A. Journal of Wildlife Management.
 
@@ -16,9 +18,9 @@ Lanfear, R. and **M.W. Pennell**. (in press) Open access is worth considering. T
 
 **Pennell, M.W.**\*, J.M. Eastman\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (in press) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics. [doi](http://bioinformatics.oxfordjournals.org/content/early/2014/04/10/bioinformatics.btu181.abstract) [pdf]({{url}}/pdfs/pennell-bioinf-2014.pdf)
 
-FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (in press) How much of the world is woody? Journal of Ecology. [github](https://github.com/richfitz/wood)
+FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (in press) How much of the world is woody? Journal of Ecology. [repo](https://github.com/richfitz/wood)
 
-Slater, G.J. and **M.W. Pennell**. (in press) Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology. [doi](http://sysbio.oxfordjournals.org/content/early/2013/11/22/sysbio.syt066.short) [pdf]({{url}}/pdfs/slater-sysbio-2013.pdf)
+Slater, G.J. and **M.W. Pennell**. (2014) Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology 63:293-308. [doi](http://sysbio.oxfordjournals.org/content/63/3/293.abstract) [pdf]({{url}}/pdfs/slater-sysbio-2014.pdf)
 
 Cornwell, W.K., M. Westoby, D.S. Falster, R.G. FitzJohn, B.C. O'Meara, **M.W. Pennell**, D.J. McGlinn, J.M. Eastman, A.T. Moles, P.B. Reich, D.C. Tank, I.J. Wright, L.Aarssen, J.M. Beaulieu, R.M. Kooyman, M.R. Leishman, E.T. Miller, U. Niinemets, J. Oleksyn, A. Ordonez, D.L. Royer, S.A. Smith, P.F. Stevens, L. Warman, P. Wilf, and A.E. Zanne. (2014) Functional distinctiveness of major plant lineages. Journal of Ecology 102:345-356. [doi](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12208/full) [pdf]({{ url }}/pdfs/cornwell-jecol-2014.pdf)
 
