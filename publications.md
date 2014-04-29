@@ -18,7 +18,7 @@ Lanfear, R. and **M.W. Pennell**. (in press) Open access is worth considering. T
 
 **Pennell, M.W.**\*, J.M. Eastman\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (in press) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics. [doi](http://bioinformatics.oxfordjournals.org/content/early/2014/04/10/bioinformatics.btu181.abstract) [pdf]({{url}}/pdfs/pennell-bioinf-2014.pdf)
 
-FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (in press) How much of the world is woody? Journal of Ecology. [repo](https://github.com/richfitz/wood)
+FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (in press) How much of the world is woody? Journal of Ecology. [doi](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12260/abstract) [pdf]({{url}}/pdfs/fitzjohn-jecol-2014.pdf) [repo](https://github.com/richfitz/wood)
 
 Slater, G.J. and **M.W. Pennell**. (2014) Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology 63:293-308. [doi](http://sysbio.oxfordjournals.org/content/63/3/293.abstract) [pdf]({{url}}/pdfs/slater-sysbio-2014.pdf)
 
