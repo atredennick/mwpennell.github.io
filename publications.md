@@ -14,7 +14,7 @@ The Tree of Sex Consortium; T. Ashman, D. Bachtrog, H. Blackmon, E.E. Goldberg, 
 
 Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, **M.W. Pennell**, and L.P. Waits. (in press) A long term population monitoring approach to a wide-ranging carnivore: noninvasive genetic sampling of gray wolf rendezvous sites in Idaho, U.S.A. Journal of Wildlife Management.
 
-Lanfear, R. and **M.W. Pennell**. (in press) Open access is worth considering. Trends in Plant Sciences. [[data]](http://dx.doi.org/10.6084/m9.figshare.956240)
+Lanfear, R. and **M.W. Pennell**. (in press) Open access is worth considering. Trends in Plant Sciences. [[doi]](http://www.sciencedirect.com/science/article/pii/S1360138514001058#) [[pdf]]({{url}}/pdfs/lanfear-trpl-2014.pdf) [[data]](http://dx.doi.org/10.6084/m9.figshare.956240)
 
 **Pennell, M.W.**\*, J.M. Eastman\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (in press) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics. [[doi]](http://bioinformatics.oxfordjournals.org/content/early/2014/04/10/bioinformatics.btu181.abstract) [[pdf]]({{url}}/pdfs/pennell-bioinf-2014.pdf)
 
