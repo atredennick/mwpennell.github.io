@@ -18,7 +18,7 @@ Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, **M.W. Pennell*
 
 Lanfear, R. and **M.W. Pennell**. (in press) Open access is worth considering. Trends in Plant Sciences. [[doi]](http://www.sciencedirect.com/science/article/pii/S1360138514001058#) [[pdf]]({{url}}/pdfs/lanfear-trpl-2014.pdf) [[data]](http://dx.doi.org/10.6084/m9.figshare.956240)
 
-**Pennell, M.W.**\*, J.M. Eastman\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (in press) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics. [[doi]](http://bioinformatics.oxfordjournals.org/content/early/2014/04/10/bioinformatics.btu181.abstract) [[pdf]]({{url}}/pdfs/pennell-bioinf-2014.pdf)
+**Pennell, M.W.**\*, J.M. Eastman\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (in press) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics. [[doi]](http://bioinformatics.oxfordjournals.org/content/early/2014/05/06/bioinformatics.btu181) [[pdf]]({{url}}/pdfs/pennell-bioinf-2014.pdf)
 
 FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (in press) How much of the world is woody? Journal of Ecology. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12260/abstract) [[pdf]]({{url}}/pdfs/fitzjohn-jecol-2014.pdf) [[repo]](https://github.com/richfitz/wood)
 
