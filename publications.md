@@ -10,8 +10,9 @@ Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, K.M. Hardwick, J. Sullivan, and L.
 
 **Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in review) Model adequacy and the macroevolution of angiosperm functional traits. [[preprint]](http://biorxiv.org/content/early/2014/04/07/004002) [[repo]](https://github.com/richfitz/modeladequacy) [[poster]](http://figshare.com/articles/_In_adequacy_of_phylogenetic_trait_models_Evo_Wibo_poster_/1008468)
 
-The Tree of Sex Consortium; T. Ashman, D. Bachtrog, H. Blackmon, E.E. Goldberg, M.W. Hahn, M. Kirkpatrick, J. Kitano, J.E. Mank, I. Mayrose, R. Ming, S.P. Otto, C.L. Peichel, **M.W. Pennell**, N. Perrin, L. Ross, N. Valenzuela, and J.C. Vamosi. (in revision) Tree of Sex: a database of sexual systems.
+The Tree of Sex Consortium; T. Ashman, D. Bachtrog, H. Blackmon, E.E. Goldberg, M.W. Hahn, M. Kirkpatrick, J. Kitano, J.E. Mank, I. Mayrose, R. Ming, S.P. Otto, C.L. Peichel, **M.W. Pennell**, N. Perrin, L. Ross, N. Valenzuela, and J.C. Vamosi. (in press) Tree of Sex: a database of sexual systems. Scientific Data.
 
+* [Tree of Sex Consortium website](http://treeofsex.org/)
 * [Tree of Sex Database](http://traitdb-dev.nescent.org/)
 
 Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, **M.W. Pennell**, and L.P. Waits. (in press) A long term population monitoring approach to a wide-ranging carnivore: noninvasive genetic sampling of gray wolf rendezvous sites in Idaho, U.S.A. Journal of Wildlife Management.
@@ -20,7 +21,10 @@ Lanfear, R. and **M.W. Pennell**. (in press) Open access is worth considering. T
 
 **Pennell, M.W.**\*, J.M. Eastman\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (in press) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics. [[doi]](http://bioinformatics.oxfordjournals.org/content/early/2014/05/06/bioinformatics.btu181) [[pdf]]({{url}}/pdfs/pennell-bioinf-2014.pdf)
 
-FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (in press) How much of the world is woody? Journal of Ecology. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12260/abstract) [[pdf]]({{url}}/pdfs/fitzjohn-jecol-2014.pdf) [[repo]](https://github.com/richfitz/wood)
+FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (in press) How much of the world is woody? Journal of Ecology. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12260/abstract) [[pdf]]({{url}}/pdfs/fitzjohn-jecol-2014.pdf) [[repo]](https://github.com/richfitz/wood) [[project website]](http://richfitz.github.io/wood/)
+
+* [Post on the ROpenSci blog on reproducibility](http://ropensci.org/blog/2014/06/09/reproducibility/)
+* [Post on the Journal of Ecology blog](http://jecologyblog.wordpress.com/2014/06/10/how-much-of-the-world-is-woody/) 
 
 Slater, G.J. and **M.W. Pennell**. (2014) Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology 63:293-308. [[doi]](http://sysbio.oxfordjournals.org/content/63/3/293.abstract) [[pdf]]({{url}}/pdfs/slater-sysbio-2014.pdf)
 
