@@ -54,3 +54,13 @@ Green, D.J., K.B. Loukes, **M.W. Pennell**, J. Jarvis, and W.E. Easton. (2011) R
 
 \* indicates equal contribution
 
+
+## Additional writings
+
+Essay inducting Joseph Felsenstein as a honorary lifetime member of the American Society of Naturalists (co-written with Jonathan Losos and Sally Otto) [[doi]](http://www.jstor.org/stable/full/10.1086/676468)
+
+
+## Talks
+
+Evolution 2014, Raleigh, NC. The adequacy of phylogenetic trait models (SSB Symposium: The Dark Side of Phylogenetic Comparative Methods) [[slides]](http://www.slideshare.net/mwpennell/pennell-evolution2014)
+
