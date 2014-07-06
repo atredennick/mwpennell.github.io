@@ -10,14 +10,14 @@ Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, K.M. Hardwick, J. Sullivan, and L.
 
 **Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in review) Model adequacy and the macroevolution of angiosperm functional traits. [[preprint]](http://biorxiv.org/content/early/2014/04/07/004002) [[repo]](https://github.com/richfitz/modeladequacy) [[poster]](http://figshare.com/articles/_In_adequacy_of_phylogenetic_trait_models_Evo_Wibo_poster_/1008468)
 
-The Tree of Sex Consortium; T. Ashman, D. Bachtrog, H. Blackmon, E.E. Goldberg, M.W. Hahn, M. Kirkpatrick, J. Kitano, J.E. Mank, I. Mayrose, R. Ming, S.P. Otto, C.L. Peichel, **M.W. Pennell**, N. Perrin, L. Ross, N. Valenzuela, and J.C. Vamosi. (in press) Tree of Sex: a database of sexual systems. Scientific Data.
+The Tree of Sex Consortium; T. Ashman, D. Bachtrog, H. Blackmon, E.E. Goldberg, M.W. Hahn, M. Kirkpatrick, J. Kitano, J.E. Mank, I. Mayrose, R. Ming, S.P. Otto, C.L. Peichel, **M.W. Pennell**, N. Perrin, L. Ross, N. Valenzuela, and J.C. Vamosi. (2014) Tree of Sex: a database of sexual systems. Scientific Data 1:140015. [[doi]](http://www.nature.com/articles/sdata201415) [[pdf]]({{url}}/pdfs/tree-of-sex.pdf)
 
 * [Tree of Sex Consortium website](http://treeofsex.org/)
 * [Tree of Sex Database](http://traitdb-dev.nescent.org/)
 
 Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, **M.W. Pennell**, and L.P. Waits. (in press) A long term population monitoring approach to a wide-ranging carnivore: noninvasive genetic sampling of gray wolf rendezvous sites in Idaho, U.S.A. Journal of Wildlife Management.
 
-Lanfear, R. and **M.W. Pennell**. (in press) Open access is worth considering. Trends in Plant Sciences. [[doi]](http://www.sciencedirect.com/science/article/pii/S1360138514001058#) [[pdf]]({{url}}/pdfs/lanfear-trpl-2014.pdf) [[data]](http://dx.doi.org/10.6084/m9.figshare.956240)
+Lanfear, R. and **M.W. Pennell**. (2014) Open access is worth considering. Trends in Plant Sciences 19:340-341. [[doi]](http://www.sciencedirect.com/science/article/pii/S1360138514001058#) [[pdf]]({{url}}/pdfs/lanfear-trpl-2014.pdf) [[data]](http://dx.doi.org/10.6084/m9.figshare.956240)
 
 **Pennell, M.W.**\*, J.M. Eastman\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (in press) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics. [[doi]](http://bioinformatics.oxfordjournals.org/content/early/2014/05/06/bioinformatics.btu181) [[pdf]]({{url}}/pdfs/pennell-bioinf-2014.pdf)
 
