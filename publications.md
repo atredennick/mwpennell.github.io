@@ -15,7 +15,7 @@ The Tree of Sex Consortium; T. Ashman, D. Bachtrog, H. Blackmon, E.E. Goldberg, 
 * [Tree of Sex Consortium website](http://treeofsex.org/)
 * [Tree of Sex Database](http://traitdb-dev.nescent.org/)
 
-Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, **M.W. Pennell**, and L.P. Waits. (in press) A long term population monitoring approach to a wide-ranging carnivore: noninvasive genetic sampling of gray wolf rendezvous sites in Idaho, U.S.A. Journal of Wildlife Management.
+Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, **M.W. Pennell**, and L.P. Waits. (2014) A long term population monitoring approach to a wide-ranging carnivore: noninvasive genetic sampling of gray wolf rendezvous sites in Idaho, U.S.A. Journal of Wildlife Management. [[doi]](http://onlinelibrary.wiley.com/doi/10.1002/jwmg.736/abstract) [[pdf]]({{url}}/pdfs/stansbury-jwm-2014.pdf)
 
 Lanfear, R. and **M.W. Pennell**. (2014) Open access is worth considering. Trends in Plant Sciences 19:340-341. [[doi]](http://www.sciencedirect.com/science/article/pii/S1360138514001058#) [[pdf]]({{url}}/pdfs/lanfear-trpl-2014.pdf) [[data]](http://dx.doi.org/10.6084/m9.figshare.956240)
 
