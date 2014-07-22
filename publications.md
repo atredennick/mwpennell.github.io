@@ -5,10 +5,11 @@ title: Publications
 
 ### [On Google scholar](http://scholar.google.com/citations?user=mxS1rJoAAAAJ&hl=en)
 
+Uyeda, J.C., D.S. Caetano, and **M.W. Pennell**. (submitted) Statistical and conceptual challenges in the comparative analysis of principal components. [[preprint]](http://biorxiv.org/content/early/2014/07/22/007369) [[repo]](https://github.com/mwpennell/phyloPCA)
 
 Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, K.M. Hardwick, J. Sullivan, and L.J. Harmon. (submitted) The choice of tree prior and molecular clock does not substantially affect phylogenetic inferences of diversification rates.
 
-**Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in review) Model adequacy and the macroevolution of angiosperm functional traits. [[preprint]](http://biorxiv.org/content/early/2014/04/07/004002) [[repo]](https://github.com/richfitz/modeladequacy) [[poster]](http://figshare.com/articles/_In_adequacy_of_phylogenetic_trait_models_Evo_Wibo_poster_/1008468)
+**Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in revision) Model adequacy and the macroevolution of angiosperm functional traits. [[preprint]](http://biorxiv.org/content/early/2014/04/07/004002) [[repo]](https://github.com/richfitz/modeladequacy) [[poster]](http://figshare.com/articles/_In_adequacy_of_phylogenetic_trait_models_Evo_Wibo_poster_/1008468)
 
 The Tree of Sex Consortium; T. Ashman, D. Bachtrog, H. Blackmon, E.E. Goldberg, M.W. Hahn, M. Kirkpatrick, J. Kitano, J.E. Mank, I. Mayrose, R. Ming, S.P. Otto, C.L. Peichel, **M.W. Pennell**, N. Perrin, L. Ross, N. Valenzuela, and J.C. Vamosi. (2014) Tree of Sex: a database of sexual systems. Scientific Data 1:140015. [[doi]](http://www.nature.com/articles/sdata201415) [[pdf]]({{url}}/pdfs/tree-of-sex.pdf)
 
