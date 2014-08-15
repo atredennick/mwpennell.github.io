@@ -13,7 +13,7 @@ Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, K.M. Hardwick, J. Sullivan, and L.
 
 **Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in revision) Model adequacy and the macroevolution of angiosperm functional traits. [[preprint]](http://biorxiv.org/content/early/2014/04/07/004002) [[repo]](https://github.com/richfitz/modeladequacy) [[poster]](http://figshare.com/articles/_In_adequacy_of_phylogenetic_trait_models_Evo_Wibo_poster_/1008468)
 
-FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (in press) How much of the world is woody? Journal of Ecology. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12260/abstract) [[pdf]]({{url}}/pdfs/fitzjohn-jecol-2014.pdf) [[repo]](https://github.com/richfitz/wood) [[project website]](http://richfitz.github.io/wood/)
+FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (2014) How much of the world is woody? Journal of Ecology 102:1266-1272. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12260/full) [[pdf]]({{url}}/pdfs/fitzjohn-jecol-2014.pdf) [[repo]](https://github.com/richfitz/wood) [[project website]](http://richfitz.github.io/wood/)
 
 * [Post on the ROpenSci blog on reproducibility](http://ropensci.org/blog/2014/06/09/reproducibility/)
 * [Post on the Journal of Ecology blog](http://jecologyblog.wordpress.com/2014/06/10/how-much-of-the-world-is-woody/) 
