@@ -5,6 +5,8 @@ title: Publications
 
 ### [On Google scholar](http://scholar.google.com/citations?user=mxS1rJoAAAAJ&hl=en)
 
+**Pennell, M.W**. (submitted) Models and meanings in comparative biology (review of *Modern Phylogenetic Comparative Methods and Their Applications in Evolutionary Biology*). [[repo]](https://github.com/mwpennell/modern-pcms-book-review)
+
 Tank, D.C., J.M. Eastman, **M.W. Pennell**, P.S. Soltis, D.E. Soltis, C.E. Hinchliff, J.W. Brown, and L.J. Harmon. (submitted) Nested radiations and the pulse of angiosperm diversification.
 
 Uyeda, J.C., D.S. Caetano, and **M.W. Pennell**. (submitted) Statistical and conceptual challenges in the comparative analysis of principal components. [[preprint]](http://biorxiv.org/content/early/2014/07/22/007369) [[repo]](https://github.com/mwpennell/phyloPCA)
