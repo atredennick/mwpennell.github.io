@@ -5,7 +5,7 @@ title: Publications
 
 ### [On Google scholar](http://scholar.google.com/citations?user=mxS1rJoAAAAJ&hl=en)
 
-**Pennell, M.W**. (submitted) Models and meanings in comparative biology (review of *Modern Phylogenetic Comparative Methods and Their Applications in Evolutionary Biology*). [[repo]](https://github.com/mwpennell/modern-pcms-book-review)
+**Pennell, M.W**. (In press) Models and meanings in comparative biology (review of *Modern Phylogenetic Comparative Methods and Their Applications in Evolutionary Biology*). Systematic Biology. [[doi]](http://sysbio.oxfordjournals.org/content/early/2014/10/14/sysbio.syu075.extract) [[pdf]]({{url}}/pdfs/pennell-sysbio-2014.pdf)
 
 Tank, D.C., J.M. Eastman, **M.W. Pennell**, P.S. Soltis, D.E. Soltis, C.E. Hinchliff, J.W. Brown, and L.J. Harmon. (submitted) Nested radiations and the pulse of angiosperm diversification.
 
