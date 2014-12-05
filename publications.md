@@ -29,7 +29,7 @@ Stansbury, C.R., D.E. Ausband, P. Zager, C.M. Mack, C.R. Miller, **M.W. Pennell*
 
 Lanfear, R. and **M.W. Pennell**. (2014) Open access is worth considering. Trends in Plant Sciences 19:340-341. [[doi]](http://www.sciencedirect.com/science/article/pii/S1360138514001058#) [[pdf]]({{url}}/pdfs/lanfear-trpl-2014.pdf) [[data]](http://dx.doi.org/10.6084/m9.figshare.956240)
 
-**Pennell, M.W.**\*, J.M. Eastman\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (2014) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics 15:2216-2218.. [[doi]]http://bioinformatics.oxfordjournals.org/content/30/15/2216) [[pdf]]({{url}}/pdfs/pennell-bioinf-2014.pdf)
+**Pennell, M.W.**\*, J.M. Eastman\*, G.J. Slater, J.W. Brown, J.C. Uyeda, R.G. FitzJohn, M.E. Alfaro, and L.J. Harmon. (2014) geiger v2.0: an expanded suite of methods for fitting macroevolutionary models to phylogenetic trees. Bioinformatics 15:2216-2218.. [[doi]](http://bioinformatics.oxfordjournals.org/content/30/15/2216) [[pdf]]({{url}}/pdfs/pennell-bioinf-2014.pdf)
 
 Slater, G.J. and **M.W. Pennell**. (2014) Robust regression and posterior predictive simulation increase power to detect early bursts of trait evolution. Systematic Biology 63:293-308. [[doi]](http://sysbio.oxfordjournals.org/content/63/3/293.abstract) [[pdf]]({{url}}/pdfs/slater-sysbio-2014.pdf)
 
