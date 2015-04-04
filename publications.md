@@ -5,6 +5,8 @@ title: Publications
 
 ### [On Google scholar](http://scholar.google.com/citations?user=mxS1rJoAAAAJ&hl=en)
 
+**Pennell, M.W.**\*, M. Kirkpatrick\*, S.P. Otto\*, J.C. Vamosi, C.L. Piechel, N. Valenzuela, and J. Kitano. (in revision) Y fuse? Sex chromosome fusions in fishes and reptiles.
+
 Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, K.M. Hardwick, J. Sullivan, and L.J. Harmon. (in revision) The choice of tree prior and molecular clock does not substantially affect phylogenetic inferences of diversification rates.
 
 Tank, D.C., J.M. Eastman, **M.W. Pennell**, P.S. Soltis, D.E. Soltis, C.E. Hinchliff, J.W. Brown, and L.J. Harmon. (in press) Nested radiations and the pulse of angiosperm diversification. New Phytologist.
