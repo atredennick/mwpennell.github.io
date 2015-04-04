@@ -5,15 +5,15 @@ title: Publications
 
 ### [On Google scholar](http://scholar.google.com/citations?user=mxS1rJoAAAAJ&hl=en)
 
-**Pennell, M.W**. (In press) Models and meanings in comparative biology (review of *Modern Phylogenetic Comparative Methods and Their Applications in Evolutionary Biology*). Systematic Biology. [[doi]](http://sysbio.oxfordjournals.org/content/early/2014/10/14/sysbio.syu075.extract) [[pdf]]({{url}}/pdfs/pennell-sysbio-2014.pdf)
-
-Tank, D.C., J.M. Eastman, **M.W. Pennell**, P.S. Soltis, D.E. Soltis, C.E. Hinchliff, J.W. Brown, and L.J. Harmon. (submitted) Nested radiations and the pulse of angiosperm diversification.
-
-Uyeda, J.C., D.S. Caetano, and **M.W. Pennell**. (submitted) Statistical and conceptual challenges in the comparative analysis of principal components. [[preprint]](http://biorxiv.org/content/early/2014/12/05/007369) [[repo]](https://github.com/mwpennell/phyloPCA)
-
 Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, K.M. Hardwick, J. Sullivan, and L.J. Harmon. (in revision) The choice of tree prior and molecular clock does not substantially affect phylogenetic inferences of diversification rates.
 
-**Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in revision) Model adequacy and the macroevolution of angiosperm functional traits. [[preprint]](http://biorxiv.org/content/early/2014/10/31/004002) [[repo]](https://github.com/richfitz/modeladequacy) [[poster]](http://figshare.com/articles/_In_adequacy_of_phylogenetic_trait_models_Evo_Wibo_poster_/1008468)
+Tank, D.C., J.M. Eastman, **M.W. Pennell**, P.S. Soltis, D.E. Soltis, C.E. Hinchliff, J.W. Brown, and L.J. Harmon. (in press) Nested radiations and the pulse of angiosperm diversification. New Phytologist.
+
+**Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in press) Model adequacy and the macroevolution of angiosperm functional traits. The American Naturalist. [[preprint]](http://biorxiv.org/content/early/2014/10/31/004002) [[repo]](https://github.com/richfitz/modeladequacy) [[poster]](http://figshare.com/articles/_In_adequacy_of_phylogenetic_trait_models_Evo_Wibo_poster_/1008468)
+
+Uyeda, J.C., D.S. Caetano, and **M.W. Pennell**. (in press) Comparative analysis of principal components can be misleading. Systematic Biology. [[doi]](http://sysbio.oxfordjournals.org/content/early/2015/04/03/sysbio.syv019.abstract) [[pdf]]({{url}}/pdfs/uyeda-sysbio-2015.pdf) [[repo]](https://github.com/mwpennell/phyloPCA)
+
+**Pennell, M.W**. (2015) Modern Phylogenetic Comparative Methods and Their Application in Evolutionary Biology: Concepts and Practice.—Edited by László Zsolt Garamszegi (Book Review). Systematic Biology 64:161-163. [[doi]](http://sysbio.oxfordjournals.org/content/64/1/161.short) [[pdf]]({{url}}/pdfs/pennell-sysbio-2014.pdf)
 
 FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. (2014) How much of the world is woody? Journal of Ecology 102:1266-1272. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12260/full) [[pdf]]({{url}}/pdfs/fitzjohn-jecol-2014.pdf) [[repo]](https://github.com/richfitz/wood) [[project website]](http://richfitz.github.io/wood/)
 
