@@ -5,13 +5,13 @@ title: Publications
 
 ### [On Google scholar](http://scholar.google.com/citations?user=mxS1rJoAAAAJ&hl=en)
 
-**Pennell, M.W.**\*, M. Kirkpatrick\*, S.P. Otto\*, J.C. Vamosi, C.L. Piechel, N. Valenzuela, and J. Kitano. (in revision) Y fuse? Sex chromosome fusions in fishes and reptiles.
-
 Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, K.M. Hardwick, J. Sullivan, and L.J. Harmon. (in revision) The choice of tree prior and molecular clock does not substantially affect phylogenetic inferences of diversification rates.
 
 Tank, D.C., J.M. Eastman, **M.W. Pennell**, P.S. Soltis, D.E. Soltis, C.E. Hinchliff, J.W. Brown, and L.J. Harmon. (in press) Nested radiations and the pulse of angiosperm diversification. New Phytologist.
 
 **Pennell, M.W.**, R.G. FitzJohn, W.K. Cornwell, and L.J. Harmon. (in press) Model adequacy and the macroevolution of angiosperm functional traits. The American Naturalist. [[preprint]](http://biorxiv.org/content/early/2014/10/31/004002) [[repo]](https://github.com/richfitz/modeladequacy) [[poster]](http://figshare.com/articles/_In_adequacy_of_phylogenetic_trait_models_Evo_Wibo_poster_/1008468)
+
+**Pennell, M.W.**\*, M. Kirkpatrick\*, S.P. Otto\*, J.C. Vamosi, C.L. Piechel, N. Valenzuela, and J. Kitano. (2015) Y fuse? Sex chromosome fusions in fishes and reptiles. PLoS Genetics 11:e1005237 [[doi]](http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1005237) [[pdf]]({{url}}/pdfs/pennell-plosgen-2015.pdf)
 
 Uyeda, J.C., D.S. Caetano, and **M.W. Pennell**. (in press) Comparative analysis of principal components can be misleading. Systematic Biology. [[doi]](http://sysbio.oxfordjournals.org/content/early/2015/04/03/sysbio.syv019.abstract) [[pdf]]({{url}}/pdfs/uyeda-sysbio-2015.pdf) [[repo]](https://github.com/mwpennell/phyloPCA)
 
