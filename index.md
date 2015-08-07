@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-I am a PhD candidate in Bioinformatics and Computational Biology, working in the [Harmon lab](http://www.webpages.uidaho.edu/~lukeh/) at the [University of Idaho](http://www.ibest.uidaho.edu/). I am interested in phylogenetic comparative methods, macroevolution, and evolutionary genetics.
+I am a postdoctoral fellow, working in the [Otto lab](http://www.zoology.ubc.ca/~otto/) at the [University of British Columbia's Biodiversity Research Centre](http://www.biodiversity.ubc.ca). I am interested in phylogenetic comparative methods, macroevolution, and evolutionary genetics.
 
 Contact me at mwpennell@gmail.com
 

@@ -20,7 +20,7 @@ Uyeda, J.C., D.S. Caetano, and **M.W. Pennell**. 2015. Comparative analysis of p
 FitzJohn, R.G.\*, **M.W. Pennell**\*, A.E. Zanne, P.F. Stevens, D.C. Tank, and W.K. Cornwell. 2014. How much of the world is woody? Journal of Ecology 102:1266-1272. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12260/full) [[pdf]]({{url}}/pdfs/fitzjohn-jecol-2014.pdf) [[repo]](https://github.com/richfitz/wood) [[project website]](http://richfitz.github.io/wood/)
 
 * [Post on the ROpenSci blog on reproducibility](http://ropensci.org/blog/2014/06/09/reproducibility/)
-* [Post on the Journal of Ecology blog](http://jecologyblog.wordpress.com/2014/06/10/how-much-of-the-world-is-woody/) 
+* [Post on the Journal of Ecology blog](http://jecologyblog.wordpress.com/2014/06/10/how-much-of-the-world-is-woody/)
 
 The Tree of Sex Consortium; T. Ashman, D. Bachtrog, H. Blackmon, E.E. Goldberg, M.W. Hahn, M. Kirkpatrick, J. Kitano, J.E. Mank, I. Mayrose, R. Ming, S.P. Otto, C.L. Peichel, **M.W. Pennell**, N. Perrin, L. Ross, N. Valenzuela, and J.C. Vamosi. 2014. Tree of Sex: a database of sexual systems. Scientific Data 1:140015. [[doi]](http://www.nature.com/articles/sdata201415) [[pdf]]({{url}}/pdfs/tree-of-sex.pdf)
 
@@ -45,7 +45,7 @@ Maliska, M.E., **M.W. Pennell**, and B.J. Swalla. 2013. Developmental mode influ
 
 **Pennell, M.W.** and L.J. Harmon. 2013. An integrative view of phylogenetic comparative methods: connections to population genetics, community ecology, and paleobiology. Annals of the New York Academy of Sciences 1289:90-105. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/nyas.12157/full) [[pdf]]({{url}}/pdfs/pennell-nyas-2013.pdf)
 
-* recommended by [Faculty of 1000](http://f1000.com/prime/718022005) 
+* recommended by [Faculty of 1000](http://f1000.com/prime/718022005)
 
 Stoltzfus, A., H. Lapp, N. Matasci, H. Deus, B. Sidlauskas, C.M. Zmasek, G. Vaidya, E. Pontelli, K. Cranston, R. Vos, C.O. Webb, L.J. Harmon, M. Pirrung, B. O'Meara, **M.W. Pennell**, S. Mirarab, M.S. Rosenberg, J.P. Balhoff, H.M. Bik, T.A. Heath, P.E. Midford, J.W. Brown, E.J. McTavish, J. Sukumaran, M. Westneat, M.E. Alfaro, A. Steele, and G. Jordan. 2013. Phylotastic! Making tree-of-life knowledge accessbile, reusable and convenient. BMC Bioinformatics 14:158. [[doi]](http://www.biomedcentral.com/1471-2105/14/158) [[pdf]]({{url}}/pdfs/stoltzfus-bmc-2013.pdf)
 
@@ -69,5 +69,6 @@ Essay inducting Joseph Felsenstein as a honorary lifetime member of the American
 
 ## Talks
 
-Evolution 2014, Raleigh, NC. The adequacy of phylogenetic trait models (SSB Symposium: The Dark Side of Phylogenetic Comparative Methods) [[slides]](http://www.slideshare.net/mwpennell/pennell-evolution2014)
+PhD Exit Seminar, Moscow, ID. Models, meanings, & macroevolution [[slides]](http://www.slideshare.net/mwpennell/pennell-defensetalk)
 
+Evolution 2014, Raleigh, NC. The adequacy of phylogenetic trait models (SSB Symposium: The Dark Side of Phylogenetic Comparative Methods) [[slides]](http://www.slideshare.net/mwpennell/pennell-evolution2014)
