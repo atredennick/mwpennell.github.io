@@ -5,7 +5,7 @@ title: Publications
 
 ### [On Google scholar](http://scholar.google.com/citations?user=mxS1rJoAAAAJ&hl=en)
 
-**Pennell, M.W.**\*, R.G. FitzJohn, and W.K. Cornwell. submitted. A simple approach for maximizing the overlap of phylogenetic and comparative data. [[preprint]](http://biorxiv.org/content/early/2015/08/20/024992) [[repo]](https://github.com/mwpennell/phyndr-ms)
+**Pennell, M.W.**\*, R.G. FitzJohn\*, and W.K. Cornwell\*. submitted. A simple approach for maximizing the overlap of phylogenetic and comparative data. [[preprint]](http://biorxiv.org/content/early/2015/08/20/024992) [[repo]](https://github.com/mwpennell/phyndr-ms)
 
 * [phyndr:](https://github.com/richfitz/phyndr) a R implementation of the algorithms described in our paper
 * [taxonlookup:](https://github.com/wcornwell/taxonlookup) a R data package containing a versioned and dynamic taxonomic resource for plants
