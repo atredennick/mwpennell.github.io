@@ -5,7 +5,7 @@ title: Research
 
 Phylogenies and interspecific data provide unique information about how evolution has unfolded over deep time. By fitting statistical models to phylogenetic trees, we can gain insight into the long-term dynamics of multiple evolutionary processes working together--in this way, phylogenetic studies can compliment theoretical, observational, and experimental studies in which the temporal scale is usually much shorter. The converse is also true: because the time scale of phylogenetic data is so long, many of the details of evolutionary history will be obscured. The grand challenge of my work is to reconcile disparate types of data and observations at multiple time-scales to form a coherent view of evolutionary change.
 
-My research programme can be divided into three broad (and overlapping) aims:
+My research programme can be divided into three broad, and overlapping, aims:
 
 ### Developing, testing, and understanding phylogenetic methods for studying macroevolution
 
