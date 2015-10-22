@@ -21,7 +21,7 @@ In my postdoctoral research, I am following up this work by working from the bot
 
 ### Building computational infrastructure for biodiversity sciences
 
-Evolutionary biology and ecology are now data-intensive disciplines. It is an incredibly exciting time to be studying biodiversitycollecting many types of data is easier than ever and tremendous sums of effort and money have gone towards creating and curating large, public databases. However, the development of computational approaches to handle all this data are still lagging behind; this is especially true of studies that require non-standard data such as phylogenies, taxonomic information, morphological measurements, geographic records, etc.  My research in this area can roughly be divided into two complementary thrusts.
+Evolutionary biology and ecology are now data-intensive disciplines. It is an incredibly exciting time to be studying biodiversity. Collecting many types of data is easier than ever and tremendous sums of effort and money have gone towards creating and curating large, public databases. However, the development of computational approaches to handle all this data are still lagging behind; this is especially true of studies that require non-standard data such as phylogenies, taxonomic information, morphological measurements, geographic records, etc.  My research in this area can roughly be divided into two complementary thrusts.
 
 First, I write software to perform statistical analysis on phylogenetic comparative data (see [here](https://github.com/mwpennell/geiger-v2) and [here](https://github.com/mwpennell/arbutus)).
 
