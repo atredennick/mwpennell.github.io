@@ -5,12 +5,10 @@ title: Publications
 
 ### [On Google scholar](http://scholar.google.com/citations?user=mxS1rJoAAAAJ&hl=en)
 
-**Pennell, M.W.**\*, R.G. FitzJohn\*, and W.K. Cornwell\*. submitted. A simple approach for maximizing the overlap of phylogenetic and comparative data. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12517/abstract) [[pdf]]({{url}}/pdfs/pennell-mee-2015.pdf) [[repo]](https://github.com/traitecoevo/phyndr-ms)
+**Pennell, M.W.**\*, R.G. FitzJohn\*, and W.K. Cornwell\*. In press. Methods in Ecology and Evolution. A simple approach for maximizing the overlap of phylogenetic and comparative data. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12517/abstract) [[pdf]]({{url}}/pdfs/pennell-mee-2015.pdf) [[repo]](https://github.com/traitecoevo/phyndr-ms)
 
 * [phyndr:](https://github.com/traitecoevo/phyndr) a R implementation of the algorithms described in our paper
 * [taxonlookup:](https://github.com/traitecoevo/taxonlookup) a R data package containing a versioned and dynamic taxonomic resource for plants
-
-Sarver, B.A.J., **M.W. Pennell**, J.W. Brown, K.M. Hardwick, J. Sullivan, and L.J. Harmon. In revision. The choice of tree prior and molecular clock does not substantially affect phylogenetic inferences of diversification rates.
 
 Tank, D.C., J.M. Eastman, **M.W. Pennell**, P.S. Soltis, D.E. Soltis, C.E. Hinchliff, J.W. Brown, E.B. Sessa, and L.J. Harmon. 2015. Nested radiations and the pulse of angiosperm diversification. New Phytologist. [[doi]](http://onlinelibrary.wiley.com/doi/10.1111/nph.13491/abstract) [[pdf]]({{url}}/pdfs/tank-newphyt-2015.pdf) [[repo]](https://github.com/harmonlab/angio-pulse)
 
